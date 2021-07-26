@@ -1,0 +1,5 @@
+"""
+mainapp
+"""
+
+print("mainapp")
